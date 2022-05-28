@@ -1,5 +1,5 @@
 # Attendance-Portal
-A portal where students and teachers can register themselves and login to view the student's attendance.
+A portal where students and teachers can register themselves,login to view the student's attendance & capture attendance.
 
 # Tech Stack
 Python <br />
