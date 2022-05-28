@@ -1,6 +1,14 @@
 # Attendance-Portal
 A portal where students and teachers can register themselves and login to view the student's attendance.
 
+# Tech Stack
+Python <br />
+Html <br />
+CSS <br />
+JavaScript <br />
+Django Framework <br />
+SQLite Database 
+
 # Installation
 Python,Django & CMake needs to be installed 
 
@@ -22,9 +30,12 @@ Username : fac1  <br />
 Password : fac1fac1  <br />
 
 ~ Student :  <br />
-Username : 6602  <br />
+Username : 6601  <br />
 Password : adminadmin  <br />
 
 Access to Django Admin Page : http://127.0.0.1:8000/admin <br />
 Username : admin <br />
-Password : admin <br />
+Password : admin 
+
+# Tutorial
+https://youtu.be/34-WCQeyJR0
